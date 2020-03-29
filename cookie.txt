@@ -1,0 +1,3 @@
+Removed for security purposes. 
+
+Record your own cookie settings by recording via inspect (ctrl + shift + i) -> network, whilst logging in to your sketchup account.
